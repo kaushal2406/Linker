@@ -22,7 +22,7 @@ class Utils {
 
         Log.i("Linkeroo33", "word " + charSequence);
         int trackerIndex = -2;
-        int lastIndex = 0;
+        int lastIndex = -1;
 
         while (trackerIndex != -1 ) {
             
